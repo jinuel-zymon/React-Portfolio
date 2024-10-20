@@ -16,7 +16,7 @@ const Header = () => {
             <ul className='flex flex-col items-center mt-24 lg:mt-0 lg:flex-row gap-10'>
               <li><Link className='text-accent font-semibold text-3xl lg:text-lg' to="/">Home</Link></li>
               <li><Link className='text-accent font-semibold text-3xl lg:text-lg' to="/about">About</Link></li>
-              <li><Link className='text-accent font-semibold text-3xl lg:text-lg' to="/services">Work</Link></li>
+              <li><Link className='text-accent font-semibold text-3xl lg:text-lg' to="/work">Work</Link></li>
             </ul>
           </nav>
 

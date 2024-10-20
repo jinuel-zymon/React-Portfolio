@@ -9,9 +9,10 @@ const HomeWork = () => {
       <HomeSectionTitle
         title="work."
         content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta neque minima veritatis sequi consequuntur laborum, eveniet expedita possimus totam ab dolore dicta optio beatae debitis ipsam error fugiat consequatur et!"
+        isHidden={false}
         />
 
-        <div className='work-items grid grid-cols-2 gap-10'>
+        <div className='work-items grid md:grid-cols-2 gap-10'>
           <HomeCard
           image="https://via.placeholder.com/600x400"
           date="November 13, 2019"

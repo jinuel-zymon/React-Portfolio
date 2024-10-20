@@ -61,6 +61,6 @@
   }
 
   .btn-pale{
-    @apply bg-pale text-black border-black hover:border-accent hover:bg-transparent hover:text-accent transition-all
+    @apply bg-pale text-black border-black hover:border-accent hover:bg-transparent hover:text-accent transition-all  
   }
 }

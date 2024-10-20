@@ -10,6 +10,7 @@ const HomeAbout = () => {
         <HomeSectionTitle
         title="about."
         content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta neque minima veritatis sequi consequuntur laborum, eveniet expedita possimus totam ab dolore dicta optio beatae debitis ipsam error fugiat consequatur et!"
+        isHidden={false}
         />
 
         <div className='info flex flex-col items-center'>
